@@ -1,0 +1,9 @@
+[00:00:03.345] Server  LOG     ✓ Ready in 2.1s
+[00:00:08.766] Server  LOG     ○ Compiling / ...
+[00:00:17.118] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:18.159] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.799] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:01:27.611] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:27.627] Server  LOG     ✓ Compiled in 214ms
+[00:01:28.848] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/%5Broot-of-the-server%5D__a3dce129._.css
+[00:01:29.513] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
